@@ -20,7 +20,7 @@
 
 1. Clone the repository:
     ```sh
-    https://github.com/falconthehunter
+    https://github.com/falconthehunter/Layeredge.git
     cd LedgeBot
     ```
 
