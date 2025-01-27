@@ -21,7 +21,7 @@
 1. Clone the repository:
     ```sh
     https://github.com/falconthehunter/Layeredge.git
-    cd LedgeBot
+    cd Layeredge
     ```
 
 2. Install the required dependencies:
