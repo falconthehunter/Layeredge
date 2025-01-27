@@ -1,0 +1,10 @@
+[
+  {
+    "address": "0x123456789abcdef123456789abcdef1234567890",
+    "privateKey": "abcd1234efgh5678ijkl9012mnop3456qrst7890uvwx5678yzab1234cdef5678"
+  },
+  {
+    "address": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+    "privateKey": "5678abcd1234efgh9012ijkl3456mnop7890qrst1234uvwx5678yzab9012cdef"
+  }
+]
